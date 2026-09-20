@@ -1,2 +1,0 @@
-# ihub_iit_projects_labs
-projects_labs_submission
